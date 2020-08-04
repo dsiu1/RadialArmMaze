@@ -23,3 +23,4 @@ Users can add notes using the writer at the bottom of the GUI.
 Doors and reward ports can also be individually tested using the buttons on the right
 
 
+![RAMGUI](https://github.com/dsiu1/RadialArmMaze/blob/master/RAMGUI.PNG)
