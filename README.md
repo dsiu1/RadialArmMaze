@@ -1,9 +1,14 @@
 # RadialArmMaze
 Radial 8 arm maze GUI code
 
+This codebase was used to interface with MazeEngineer's Radial 8 Arm Maze hardware, and requires TTL inputs from the device. 
+
+We utilized this apparatus to collect behavioral experimental data.
+
+
 ### Usage
 
-This project was used to interface with MazeEngineer's Radial 8 Arm Maze hardware, and requires TTL inputs from the device. 
+
 
 Turn on the machine then run mainRAM.m to start the behavioral task.
 
